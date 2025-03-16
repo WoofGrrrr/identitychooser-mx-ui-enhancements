@@ -1,6 +1,8 @@
 # Identity Chooser UI+ for Mozilla Thunderbird
 
-This is a fork of Identity Chooser MX with some UI enhancements.
+This is a fork of Identity Chooser MX
+[https://github.com/speedball2001/identitychooser-mx]
+with some UI enhancements.
 There are a number of purely visual changes.
 
 One functional change is, you now have the option to choose
