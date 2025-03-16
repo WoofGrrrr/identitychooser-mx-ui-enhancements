@@ -1,12 +1,12 @@
 # Identity Chooser UI+ for Mozilla Thunderbird
 
-This is a fork of Identity Chooser iMX with some UI enhancements.
+This is a fork of Identity Chooser MX with some UI enhancements.
 There are a number of purely visual changes.
 
 One functional change is, you now have the option to choose
 what happens when you simply close the Identity Chooser
 Pop-Up.  The default is to close the Compose Window as
-well. But now there is now an option to just use the
+well. But now there is an option to just use the
 default identity.
 
 Also, on the Extension's Options Page, you can automatically
