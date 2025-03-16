@@ -1,4 +1,19 @@
-# Identity Chooser MX for Mozilla Thunderbird
+# Identity Chooser UI+ for Mozilla Thunderbird
+
+This is a fork of Identity Chooser iMX with some UI enhancements.
+There are a number of purely visual changes.
+
+One functional change is, you now have the option to choose
+what happens when you simply close the Identity Chooser
+Pop-Up.  The default is to close the Compose Window as
+well. But now there is now an option to just use the
+default identity.
+
+Also, on the Extension's Options Page, you can automatically
+sort the Identities with specified criteria.
+
+There is also a &quot;Use Default&quot; button
+in addition to the &quot;Cancel&quot; button.
 
 Do you remember the first time you accidentally sent a work related
 email from your private email account? Identity Chooser helps you to
